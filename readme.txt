@@ -5,4 +5,4 @@ system requirment
 - windows...
 - Apache
 - Redis
-
+- MYSQl versi... atau PostgreSQl versi
